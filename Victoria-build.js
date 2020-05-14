@@ -8,7 +8,7 @@ const solpp = require('solpp');
 const buildDir = './build';
 const contractDir = './contracts';
 
-const contractName = 'HEX';
+const contractName = 'VICTORIA';
 const contractFile = 'HEX.sol';
 
 const flattenedPath = `${buildDir}/${contractFile}`;
