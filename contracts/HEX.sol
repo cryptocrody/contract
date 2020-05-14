@@ -3,7 +3,7 @@ pragma solidity ^0.5.7;
 import "./StakeableToken.sol";
 
 
-contract HEX is StakeableToken {
+contract VICTORIA is StakeableToken {
     constructor()
         public
     {
